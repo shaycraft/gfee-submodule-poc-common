@@ -1,5 +1,5 @@
 export class foo {
     bar() {
-      console.debug('foobar');
+      console.debug('foobarz');
     }
 }
